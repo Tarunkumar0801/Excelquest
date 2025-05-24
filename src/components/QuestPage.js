@@ -1,0 +1,1 @@
+export const QuestPage = () => <div>Quest Page</div>;

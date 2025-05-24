@@ -1,0 +1,1 @@
+export const ModulePage = () => <div>Module Page</div>;

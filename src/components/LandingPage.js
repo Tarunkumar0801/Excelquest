@@ -1,0 +1,1 @@
+export const LandingPage = () => <div>Welcome to ExcelQuest!</div>;
